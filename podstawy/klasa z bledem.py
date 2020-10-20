@@ -1,9 +1,9 @@
-class Nokia:
+class Network:
     def Connecting(self):
             raise NotImplementedError
 
 def main():
-    Nokia.Connecting()
+    Network.Connecting()
 
 
 
